@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Yash Bellary 😀
+![Yash Bellary Banner](https://user-images.githubusercontent.com/88725274/194371334-05cf5156-e80e-4fda-bc96-ea807e989f04.png)
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=bellary_yash" target="blank"><img src="https://img.shields.io/twitter/follow/bellary_yash?logo=twitter&style=for-the-badge" alt="bellary_yashy"/></a></p>
 
