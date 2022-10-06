@@ -28,7 +28,7 @@
 
 <a href="https://twitter.com/bellary_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bellary_yash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yash-bellary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-bellary" height="30" width="40" /></a>
-<a href="https://instagram.com/bellary_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bellary_yash" height="30" width="40" /></a>
+<a href="https://instagram.com/bellaryyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bellaryyash" height="30" width="40" /></a>
 
 </div>
 
