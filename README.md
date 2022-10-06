@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=bellary_yash" target="blank"><img src="https://img.shields.io/twitter/follow/bellary_yash?logo=twitter&style=for-the-badge" alt="bellary_yashy"/></a></p>
 
-### 🌟 About Me:
+## 🌟 About Me:
 
 👉I am a Self-Learner, ready to work hard and always curious to explore any new tech stack.I am proficient at Python Programming and have developed various programs to automate my daily life. Along with Python Programming, I also have hands-on experience of Java Programming and C++ Programming. I have a Logical & Problem-Solving attitude which I have developed solving problems using Data Structures & Algorithms.
 
@@ -19,28 +19,29 @@
 </div>
 
 
-### 🌐 Socials:
+## 🌐 Socials:
 
 👉Besides Development, I am also an active community contributor. I share my reviews and thoughts to guide other students and motivate them to always explore and learn new technologies.
 
 <div align="center">
-✌You can <strong> FOLLOW ME </strong> on✌
+<h3 align="center">✌CONNECT WITH ME✌</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/yash-bellary)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bellary_yash) 
-[![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=red)](https://twitter.com/bellary_yash) 
+<a href="https://twitter.com/bellary_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bellary_yash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yash-bellary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-bellary" height="30" width="40" /></a>
+<a href="https://instagram.com/bellary_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bellary_yash" height="30" width="40" /></a>
 
 </div>
 
-### 💪 Skills:
+## 💪 Skills:
 
 <ul>
 
 <li>📊<strong> Data Structures & Algorithms:
 
-![Python](https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=C++&logoColor=#00C7B7)
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 
 <br>
 
@@ -48,49 +49,62 @@
 <ul>
 <li> 🎨Font-end: 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap4](https://img.shields.io/badge/Bootstrap4-%231572B6.svg?style=for-the-badge&logo=Bootstrap4&logoColor=white) 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 
 <li> 🖥 Back-end:
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23323330.svg?style=for-the-badge&logo=Flask&logoColor=%23F7DF1E)
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+</a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
 </ul>
 <br>
 <li>🎁<strong>  Database Management:
 
-![SQLite](https://img.shields.io/badge/sqlite-%2338B2AC.svg?style=for-the-badge&logo=SQL&logoColor=white)
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%231572B6.svg?style=for-the-badge&logo=SQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23E34F26.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
 <br>
 <li>💹<strong>  Data Science and Machine Learning:
 
-![Pandas](https://img.shields.io/badge/Pandas-%23E34F26.svg?style=for-the-badge&logo=Pandas&logoColor=white)
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 ![Numpy](https://img.shields.io/badge/Numpy-%2320232a.svg?style=for-the-badge&logo=Numpy&logoColor=%2361DAFB)'
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ED8B00.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%23404d59.svg?style=for-the-badge&logo=Plotly&logoColor=%2361DAFB) 
-![Seaborn](https://img.shields.io/badge/Seaborn-%231572B6.svg?style=for-the-badge&logo=Seaborn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23ED8B00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<br>
+<li>💹<strong>  Others:
+
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+
 </ul>
 
 <br>
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=bellaryyash23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bellaryyash23&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bellaryyash23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 <br>
 
-### ✍️ Dev Quote:
+## ✍️ Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br/>
 ---
