@@ -15,7 +15,7 @@
 <div align="center">
 ⬇ MORE ABOUT ME ⬇
 
-<a href="https://bellaryyash23.github.io/Personal_Website/" >👨‍💻@YashBellary</a> 
+<a href="https://yashbellary.netlify.app/" >👨‍💻@YashBellary</a> 
 </div>
 
 
